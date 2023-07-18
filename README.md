@@ -1,4 +1,3 @@
-Certamente! Aqui está um exemplo de conteúdo para o README do seu projeto:
 
 ```markdown
 # Projeto de Dashboard do Google Analytics para Acompanhamento de Vendas
