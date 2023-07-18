@@ -21,9 +21,6 @@ Este projeto consiste em um Dashboard desenvolvido no Power BI para realizar o a
 - Power BI Desktop: [Download](https://powerbi.microsoft.com/desktop/)
 - Conta do Google Analytics com acesso aos dados do site em questão
 
-## Visualização do Dashboard
-
-![Dashboard Preview](dashboard_preview.png)
 
 ## Atualização Automática
 
